@@ -1,19 +1,36 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**heeheepark/heeheepark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Joohee%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=배움을%20즐기는%20개발자%20박주희입니다&descAlignY=51&descAlign=68)
+<!-- <p align='center'>
+  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p> -->
 
-Here are some ideas to get you started:
+### 🛠️ Skills 🛠️
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> 
+<br><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### 📝 Studying 📝
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> 
+<br><br><br>
+  
+  
+### 🔍 Tools 🔍
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /> 
+<br><br><br><br>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeheepark&layout=compact">
+  <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=heeheepark&show_icons=true">
+  
+<br><br><br>
+### :handshake: Contact
 
-
-<img src="https://img.shields.io/badge/HTML-FFCA28?style=flat-square&logo=HTML&logoColor=ffffff"/>
+Email: pjh9641@gmail.com / Github Link: https://github.com/heeheepark
+  
+</div>
