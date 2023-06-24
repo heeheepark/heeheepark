@@ -31,6 +31,6 @@
 <br><br><br>
 ### :handshake: Contact
 
-Email: pjh9641@gmail.com / Github Link: https://github.com/heeheepark
+Email: pjh9641@gmail.com / Notion Link: https://heeheepark.notion.site/heeheepark/2b762785719146dc916ca94b056e46d1
   
 </div>
