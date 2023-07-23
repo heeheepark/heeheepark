@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=414C52&height=100&section=header&animation=fadeIn&fontAlignY=100)
+![header](https://capsule-render.vercel.app/api?type=shark&color=ffe999&height=100&section=header&animation=fadeIn&fontAlignY=100)
 
 <br>
 
@@ -64,5 +64,5 @@
 
 <br><br>
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=414C52&height=100&section=footer&animation=fadeIn&fontAlignY=100)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=ffe999&height=100&section=footer&animation=fadeIn&fontAlignY=100)
 </div>
