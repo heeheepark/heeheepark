@@ -1,4 +1,4 @@
-<div align=start>
+<div align=center>
 
 <h1> Hi! there 👋 <br> I'm JooHee Park, a junior front-end developer.</h1>
 
@@ -9,28 +9,26 @@
 
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeheepark&layout=compact" align="right" width="35%">
 
-### 🐣 Experience
 
-* 2023.04. ~ 2023.09. <br>
+### 🐣 Education
+2023.04. ~ 2023.09. <br> 
   [KDT] 기업 요구를 반영한 프로젝트 중심 프론트엔드 React 개발자 양성과정
+  
 
 
-<br>
+<br><br>
 
 
 ### 🎖️ Certificate
-<img src="https://github-readme-stats.vercel.app/api?username=heeheepark&show_icons=true" align="right">
+ 정보처리기사 취득 예정(필기 합격) <br>
+ 컴퓨터활용능력 1급 <br>
+ 워드프로세서 단일등급 <br>
+ ITQ 한글파워포인트 <br>
+ 사회복지사, 건강가정사 <br>
+ 한국사능력검정시험 1급 <br>
 
-* 정보처리기사 취득 예정(필기 합격)
-* 컴퓨터활용능력 1급
-* 워드프로세서 단일등급
-* ITQ 한글파워포인트
-* 사회복지사, 건강가정사
-* 한국사능력검정시험 1급
-
-<br>
+<br><br>
 
 
 <!-- <p align='center'>
@@ -52,10 +50,13 @@
 
 <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" />
 
-<br><br>
+<br><br><br>
   
 ### 🤝 Cowork Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
-<br><br>
 
+<br><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeheepark&layout=compact" width="35%">
+<img src="https://github-readme-stats.vercel.app/api?username=heeheepark&show_icons=true" >
 </div>
