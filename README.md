@@ -4,7 +4,7 @@
 
 <br>
 
-# Joohee's GitHub
+# 배움을 즐기는 프론트엔드 개발자, 박주희입니다! 👋 
 
 <a href="https://github.com/heeheepark"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheeheepark&count_bg=%239C9C9C&title_bg=%23699DFF&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false"/></a> <a href="pjh9641@gmial.com"><img src="https://img.shields.io/badge/mail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
  <a href="https://heeheepark.notion.site/heeheepark/2b762785719146dc916ca94b056e46d1"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a> <a href="https://www.instagram.com/heehee.n_n/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a> 
@@ -14,10 +14,17 @@
 
 
 ### 🐣 Education
-2023.04. ~ 2023.09. <br> 
-  [KDT] 기업 요구를 반영한 프로젝트 중심 프론트엔드 React 개발자 양성과정
-  
+[KDT] 기업 요구를 반영한 프로젝트 중심 프론트엔드 React 개발자 양성과정
 
+  <br><br>
+
+### 💡 Project
+<a href="https://github.com/heeheepark/samsung-display-newsroom-clone-coding">① 미니 팀 프로젝트(삼성 디스플레이 뉴스룸 클론코딩)</a> <br>
+<a href="https://github.com/heeheepark/travel-todo">② 1차 협업 프로젝트(여행 일정 관리 사이트)</a> <br>
+<a href="https://github.com/heeheepark/hischool">③ 2차 협업 프로젝트(고등학교 성적 관리 서비스 - 학생, 선생님 페이지)</a> <br>
+<a href="https://github.com/heeheepark/hischool-admin">④ 3차 협업 프로젝트(고등학교 성적 관리 서비스 - 관리자 페이지, 기능 강화)</a> 
+ 
+ 
 
 <br><br>
 
