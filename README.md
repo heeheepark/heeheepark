@@ -4,7 +4,7 @@
 
 <br>
 
-# 배움을 즐기는 프론트엔드 개발자, 박주희입니다! 👋  
+# 배움을 즐기는 프론트엔드 개발자, 박주희입니다! 👋
 
 <a href="https://github.com/heeheepark"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheeheepark&count_bg=%239C9C9C&title_bg=%23699DFF&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false"/></a> <a href="pjh9641@gmial.com"><img src="https://img.shields.io/badge/mail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
  <a href="https://heeheepark.notion.site/heeheepark/2b762785719146dc916ca94b056e46d1"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
