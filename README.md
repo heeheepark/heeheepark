@@ -4,14 +4,19 @@
 
 <br>
 
-# 배움을 즐기는 풀스택 개발자, 박주희입니다! 👋
+# 서비스 운영과 개선 경험을 갖춘 풀스택 개발자, 박주희입니다! 👋
 
-<a href="https://github.com/heeheepark"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheeheepark&count_bg=%239C9C9C&title_bg=%23699DFF&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false"/></a> <a href="pjh9641@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
- <a href="https://heeheepark.notion.site/heeheepark/2b762785719146dc916ca94b056e46d1"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
+<a href="pjh9641@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://heeheepark.notion.site/heeheepark/2b762785719146dc916ca94b056e46d1"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 
 <br>
 <br>
 
+
+### 💻 Career
+2023.11 ~ 2025.12 (주)제머나이소프트
+
+<br><br>
 
 ### 🐣 Education
 [KDT] 기업 요구를 반영한 프로젝트 중심 프론트엔드 React 개발자 양성과정
@@ -51,6 +56,11 @@
 </p> -->
 
 ### 🖥️ Skills 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
 <br>
@@ -63,7 +73,8 @@
 <br><br><br>
   
 ### 🤝 Cowork Tools
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" /> <img alt="Jira Badge" src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"> <img alt="Teams Badge" src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=Teams&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" /> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white" />
+
 
 <br><br><br>
 
