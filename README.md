@@ -4,35 +4,95 @@
 
 <br>
 
-# 서비스 운영과 개선 경험을 갖춘 풀스택 개발자, 박주희입니다! 👋
+# 서비스 운영과 개선 경험을 갖춘 풀스택 개발자, 박주희입니다 👋
 
-<a href="pjh9641@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://heeheepark.notion.site/heeheepark/2b762785719146dc916ca94b056e46d1"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 
 <br>
-<br>
+
+<a href="mailto:pjh9641@gmail.com">
+<img src="https://img.shields.io/badge/mail-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
+<a href="https://heeheepark.notion.site/heeheepark/2b762785719146dc916ca94b056e46d1">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+</a>
+
+<br><br><br>
 
 
 ### 💻 Career
-2023.11 ~ 2025.12 (주)제머나이소프트
+**(주)제머나이소프트 | 연구원 (2023.11 ~ 2025.12)**
+
+✔ 콘텐츠 배포 관리 시스템 유지보수 및 기능 개선 <br>
+✔ AWS S3 기반 콘텐츠 저장소 운영 및 업로드 로직 유지보수 <br>
+✔ 외부 플랫폼(API) 연동 개발 (YouTube, Instagram, OTT 등) <br>
+✔ 서비스 장애 대응 및 로그 기반 트러블슈팅 <br>
+✔ 콘텐츠 메타데이터 구조 개선 및 배포 프로세스 개선 <br>
 
 <br><br>
 
-### 🐣 Education
-[KDT] 기업 요구를 반영한 프로젝트 중심 프론트엔드 React 개발자 양성과정
 
-  <br><br>
+### 🚀 Experience Highlight
+
+✔ SNS / OTT 플랫폼 연동 API 개발 및 운영 경험  
+✔ 콘텐츠 배포 시스템 유지보수 및 기능 개선  
+✔ Slack 알림 시스템 구축을 통한 운영 자동화 경험  
+✔ DB 구조 개선을 통한 데이터 관리 효율 향상  
+✔ 장애 대응 및 로그 기반 문제 해결 경험  
+
+<br><br>
+
 
 ### 💡 Project
 <a href="https://github.com/heeheepark/samsung-display-newsroom-clone-coding">① 미니 팀 프로젝트(삼성 디스플레이 뉴스룸 클론코딩)</a> <br>
 <a href="https://github.com/heeheepark/travel-todo">② 1차 협업 프로젝트(여행 일정 관리 사이트)</a> <br>
-<a href="https://github.com/heeheepark/hischool">③ 2차 협업 프로젝트(고등학교 성적 관리 서비스 - 학생, 선생님 페이지)</a> <br>
-<a href="https://github.com/heeheepark/hischool-admin">④ 3차 협업 프로젝트(고등학교 성적 관리 서비스 - 관리자 페이지, 기능 강화)</a> 
- 
- 
+<a href="https://github.com/heeheepark/hischool">③ 2차 협업 프로젝트(고등학교 성적 관리 서비스)</a> <br>
+<a href="https://github.com/heeheepark/hischool-admin">④ 3차 협업 프로젝트(고등학교 성적 관리 서비스 - 관리자)</a> 
 
 <br><br>
 
+
+
+### 🖥️ Skills 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
+<br>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /> 
+<img src="https://img.shields.io/badge/AntDesign-0170FE?style=flat&logo=antdesign&logoColor=white" /> 
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />  
+<img src="https://img.shields.io/badge/Styled_component-DB7093?style=flat&logo=styledcomponents&logoColor=white" /> 
+<img src="https://img.shields.io/badge/fontawesome-528DD7?style=flat&logo=fontawesome&logoColor=white" />
+<br>
+
+<img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" /> 
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" />
+
+<br><br><br>
+  
+### 🤝 Cowork Tools
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"> 
+<img src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /> 
+<br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white" />
+
+<br><br><br>
 
 ### 🎖️ Certificate
  SQLD<br>
@@ -45,43 +105,11 @@
 
 <br><br>
 
-
-<!-- <p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p> -->
-
-### 🖥️ Skills 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
-<br>
-
- <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/AntDesign-0170FE?style=flat&logo=antdesign&logoColor=white" /> <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />  <img src="https://img.shields.io/badge/Styled_component-DB7093?style=flat&logo=styledcomponents&logoColor=white" /> <img src="https://img.shields.io/badge/fontawesome-528DD7?style=flat&logo=fontawesome&logoColor=white" />
-<br>
-
-<img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" />
-
-<br><br><br>
-  
-### 🤝 Cowork Tools
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" /> <img alt="Jira Badge" src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"> <img alt="Teams Badge" src="https://img.shields.io/badge/Teams-6264A7?style=flat&logo=Teams&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" /> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white" />
-
-
-<br><br><br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heeheepark&layout=compact" width="35%">
 <img src="https://github-readme-stats.vercel.app/api?username=heeheepark&show_icons=true" >
 
 <br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=shark&color=ffe999&height=100&section=footer&animation=fadeIn&fontAlignY=100)
+
 </div>
